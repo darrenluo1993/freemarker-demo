@@ -1,0 +1,5 @@
+pers/darren/demo/Demo.class
+pers/darren/demo/common/SingleInstance.class
+pers/darren/demo/model/Product.class
+pers/darren/demo/servlet/DemoServlet.class
+pers/darren/demo/filter/EncodingFilter.class

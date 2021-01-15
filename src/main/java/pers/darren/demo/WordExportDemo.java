@@ -18,7 +18,7 @@ public class WordExportDemo {
         dataModel.put("DesignUnit", "特能博世科技有限公司");
         dataModel.put("DesignStage", "已完成");
         dataModel.put("District", "湖南");
-        dataModel.put("Designer", "包脉");
+        dataModel.put("Designer", "张三");
         dataModel.put("AuditTime", "2021年1月15日10时0分");
 
         final Configuration configuration = ConfigSingletonDL.getPropConfiguration();
